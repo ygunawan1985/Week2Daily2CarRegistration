@@ -1,7 +1,11 @@
 # Week2Daily2CarRegistration
 Car Registration Activity and Intent
 
-Homework Week Two Day Two: Car Registration Form
+Homework Week Two Day Two
+
+Research word file: Week2Day2Research.docx
+
+Coding Project: Car Registration Form
 
 Coding
 Create a car registration application.  
