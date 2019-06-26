@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2Day2CarRegistration</string>
+    <string name="car_registration">Car Registration</string>
+    <string name="start_car_registration_activity">Start Car Registration Activity</string>
+    <string name="car_registration_form">Car Registration Form</string>
+    <string name="register_car">Register Car</string>
+</resources>
